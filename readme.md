@@ -17,7 +17,7 @@ This is second line
 
 ###### Amran Hossen
 
-<p>This is Amran Hossen. I am 31 years old. I just finished my Bechalor at BUBT University. now i'm working at BUBT</p>
+<p>This is Amran Hossen. I am 31 years old. I just finished my Bechalor at BUBT University. now i'm working at EGTC</p>
 
 <br/>
 
